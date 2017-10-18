@@ -1,11 +1,17 @@
 bye
 Branch fb1 writting this
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is for checking bad commit
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> d0e1b29... latest
 this is for checking bad commit mesage
 =======
 this is for checking bad commit
 >>>>>>> ab4831c... rectified commit name
+<<<<<<< HEAD
+>>>>>>> d0e1b29... latest
+=======
 >>>>>>> d0e1b29... latest
