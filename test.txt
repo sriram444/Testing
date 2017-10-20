@@ -1,2 +1,7 @@
 hello fish
+<<<<<<< Updated upstream
 branch statment
+=======
+branch statment
+stash moving from branch to master
+>>>>>>> Stashed changes
